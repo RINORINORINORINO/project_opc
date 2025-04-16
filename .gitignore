@@ -1,0 +1,6 @@
+# .gitignore 파일 내용
+.env
+__pycache__/
+.vscode/
+*.pyc
+output_*/
