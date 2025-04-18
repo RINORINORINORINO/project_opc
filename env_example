@@ -1,0 +1,5 @@
+# OpenAI API Key
+OPENAI_API_KEY=your-openai-api-key-here
+
+# ElevenLabs API Key (for TTS)
+ELEVEN_API_KEY=your-elevenlabs-api-key-here
